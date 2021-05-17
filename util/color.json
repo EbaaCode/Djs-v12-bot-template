@@ -1,0 +1,8 @@
+
+{
+    "redTick" : "`EMOJI NAME + ID | EX: <:NameHere:123456789101112131>`",
+    "greenTick" : "`EMOJI NAME + ID`",
+    "red": "#F14948",
+    "green": "#45B681",
+    "darkGreen": "#008369"
+}
