@@ -6,6 +6,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
 
+![VisitBadge](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EbaaCode&repo=Discord-Bot-Templat&countColorcountColor&countColor=%237B1E7A)
+
+
  <h2> Information</h2>
 This template is to skip the setup process and get right to work on your bot!
 
