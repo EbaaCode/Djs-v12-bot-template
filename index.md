@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/EbaaCode/Discord-Bot-Template/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://imgur.com/ZAErOdx.png" align="middle"></img>
+<h1> Ebaa's Discord Bot Template </h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![DiscordServer](https://img.shields.io/badge/Discord-%20Support-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=flat-square&logo=JavaScript) 
 
-### Markdown
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![VisitBadge](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EbaaCode&repo=Discord-Bot-Templat&countColorcountColor&countColor=%237B1E7A)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+ <h2> Information</h2>
+This template is to skip the setup process and get right to work on your bot!
 
-- Bulleted
-- List
+**Fetures:**
+ - Command handler.
+ - Ping & example command.
+ - Premade Embeds. 
 
-1. Numbered
-2. List
+<h2>Getting Started</h2>
 
-**Bold** and _Italic_ and `Code` text
+ 1. Clone/Download this repository.
+ 2. Install these packages:
+>  - discord.js using: `npm i discord.js`
+>  - dotenv using: `npm i dotenv`
+ 3. Change the token in the `.env` file.
+ 4. Navagate to your project file and run `node main.js` in your console to start the bot.
+ 5. Add your own commands in the `./commands` file! 
+<h2>Config</h2>
+Things you can customise in the template:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EbaaCode/Discord-Bot-Template/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 1. The prefix in the `main.js` file.
+ 2. The bot status in the `main.js` file.
+ 3. The colors / emoji's in the `util/color.json` file.
+> - To edit the emoji's use this format: `<:EmojiName:EmojiID>` 
