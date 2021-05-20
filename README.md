@@ -1,6 +1,6 @@
 
-<img src="https://imgur.com/ZAErOdx.png" align="middle"></img>
-<h1> Ebaa's Discord Bot Template </h1>
+![Banner](https://imgur.com/cHRAhCU.png)
+# Ebaa's Discord Bot Template 
 
 [![DiscordServer](https://img.shields.io/badge/Discord-%20Support-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=flat-square&logo=JavaScript) 
@@ -10,7 +10,7 @@
 ![VisitBadge](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EbaaCode&repo=Discord-Bot-Templat&countColorcountColor&countColor=%237B1E7A)
 
 
- <h2> Information</h2>
+## Information
 This template is to skip the setup process and get right to work on your bot!
 
 **Fetures:**
@@ -18,7 +18,7 @@ This template is to skip the setup process and get right to work on your bot!
  - Ping & example command.
  - Premade Embeds. 
 
-<h2>Getting Started</h2>
+## Getting Started
 
  1. Clone/Download this repository.
  2. Install these packages:
@@ -33,4 +33,4 @@ Things you can customise in the template:
  1. The prefix in the `main.js` file.
  2. The bot status in the `main.js` file.
  3. The colors / emoji's in the `util/color.json` file.
-> - To edit the emoji's use this format: `<:EmojiName:EmojiID>`
+> - To edit the emoji's use this format: `<:EmojiName:EmojiID>` 
