@@ -1,5 +1,6 @@
 
-<img src="https://imgur.com/ZAErOdx.png" align="middle"></img>
+<img src="https://imgur.com/cHRAhCU.png" align="middle"></img>
+
 <h1> Ebaa's Discord Bot Template </h1>
 
 [![DiscordServer](https://img.shields.io/badge/Discord-%20Support-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
