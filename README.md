@@ -31,6 +31,6 @@ This template is to skip the setup process and get right to work on your bot!
 Things you can customise in the template:
 
  1. The prefix in the `main.js` file.
- 2. The bot status in the `main.js` file.
+ 2. The bot status in the `ready.js` file in ./events.
  3. The colors / emoji's in the `util/color.json` file.
 > - To edit the emoji's use this format: `<:EmojiName:EmojiID>` 
