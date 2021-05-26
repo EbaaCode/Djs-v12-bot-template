@@ -8,14 +8,12 @@ const client = new Discord.Client({
 
 //! USE THIS FILE OR THE HOST ENV.
 require('dotenv').config();
-//! COMMAND PREFIX.
-const prefix = "!"
 //! COMMAND / EVENT HANDLERS.
 client.commands = new Discord.Collection();
 client.events = new Discord.Collection();
 let handlers = ['commandHandler.js', 'eventHandler.js']
 handlers.forEach(handler => {
-  require(`./handlers/${handler}`)(client, prefix, Discord)
+  require(`./handlers/${handler}`)(client, Discord)
 })
 //! CHANGE BOT TOKEN IN THE .ENV FILE. 
 client.login(process.env.BOT_TOKEN);

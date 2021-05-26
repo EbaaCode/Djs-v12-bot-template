@@ -13,6 +13,15 @@ module.exports = (client, prefix, Discord) => {
     })
 
     client.on('message', async message => {
+        //! MENTION PREFIX.
+        let prefix;
+        let mentionRegex = message.content.match(new RegExp(`^<@!?(${client.user.id})>`, 'gi'))
+        if (mentionRegex) {
+            prefix = `${mentionRegex[0]} `
+        } else {
+            //! COMMAND PREFIX
+            prefix = '!'
+        }
         //Check if the command was run by the bot / If the command was sent in DM's.
         if (message.author.bot) { return };
         if (message.channel.type === 'dm') { return };

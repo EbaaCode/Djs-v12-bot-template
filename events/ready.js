@@ -5,8 +5,9 @@ module.exports = {
     once: "true",
         //Log the bot is online and set status.
         execute(client) {
-        console.log('Bot is online!');
+        console.log(`${client.user.username} is online!`);
         //! BOT STATUS.
-        client.user.setActivity('ACTIVITY', { type: 'PLAYING' });
+        // Type: PLAYING / WATCHING / LISTENING / STREAMING
+        client.user.setActivity('STATUS', { type: 'PLAYING' });
     }
 }

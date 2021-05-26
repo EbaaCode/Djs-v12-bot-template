@@ -11,7 +11,6 @@ module.exports = {
         let footer = `Usage: !example`;
         let description = (color.redTick + ' Error example.')
         embeds.errorEmbed(client, message, description, footer)
-
         description = (color.greenTick + ' Success example.')
         embeds.successEmbed(client, message, description)
         return;
