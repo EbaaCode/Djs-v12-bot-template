@@ -3,9 +3,8 @@
 # Ebaa's Discord Bot Template 
 
 [![DiscordServer](https://img.shields.io/badge/Discord-%20Support-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/B0B73WFJT)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=flat-square&logo=JavaScript) 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
 
 ![VisitBadge](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EbaaCode&repo=Discord-Bot-Templat&countColorcountColor&countColor=%237B1E7A)
 
