@@ -36,6 +36,3 @@ Things you can customise in the template:
  2. The bot status in the `ready.js` file in `./events.`
  3. The colors / emoji's in the `util/color.json` file.
 > - To use custom emojis use this format: `<:EmojiName:EmojiID>` 
-<h2>Need help? Join the support server</h2>
-
-<iframe src="https://discord.com/widget?id=646433842265063434&theme=dark" width="500" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
