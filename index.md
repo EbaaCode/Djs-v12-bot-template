@@ -3,9 +3,9 @@
 # Ebaa's Discord Bot Template 
 
 [![DiscordServer](https://img.shields.io/badge/Discord-%20Support-7289DA?style=flat-square&logo=discord)](https://discord.gg/GeMa7KCDWV)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/B0B73WFJT)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=flat-square&logo=JavaScript) 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B73WFJT)
+[![Github](https://img.shields.io/badge/Github-Profile-181717?style=flat-square&logo=Github)](https://github.com/EbaaCode)
 
 ![VisitBadge](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EbaaCode&repo=Discord-Bot-Templat&countColorcountColor&countColor=%237B1E7A)
 
@@ -15,6 +15,8 @@ This template is to skip the setup process and get right to work on your bot!
 
 **Fetures:**
  - Command handler.
+ - Event Handler.
+ - Mention Prefix.
  - Ping & example command.
  - Premade Embeds. 
 
@@ -30,7 +32,7 @@ This template is to skip the setup process and get right to work on your bot!
 <h2>Config</h2>
 Things you can customise in the template:
 
- 1. The prefix in the `main.js` file.
- 2. The bot status in the `main.js` file.
+ 1. The prefix in the `commandHandler.js` file in `./handlers`.
+ 2. The bot status in the `ready.js` file in `./events.`
  3. The colors / emoji's in the `util/color.json` file.
-> - To edit the emoji's use this format: `<:EmojiName:EmojiID>` 
+> - To use custom emojis use this format: `<:EmojiName:EmojiID>` 
